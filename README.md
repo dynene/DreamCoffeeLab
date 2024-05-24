@@ -10,8 +10,8 @@
   - https://github.com/louis-cho
   - wizardchw0@gmail.com
 - 팀원 : 김다인
-  - 깃주소
-  - 이메일
+  - https://github.com/dynene
+  - frambo1se@naver.com
 - 팀원 : 김신영
   - https://github.com/kseenyoung
   - kseenyoung@gmail.com
@@ -19,11 +19,11 @@
   - https://github.com/ggramgyo
   - woghk6761@pusan.ac.kr
 - 팀원 : 신시원
-  - 깃주소
-  - 이메일
+  - https://github.com/tooyul
+  - ssw4627@gmail.com
 - 팀원 : 이동재
-  - 깃주소
-  - 이메일
+  - https://github.com/dkekzhs
+  - dkekzhs5@naver.com
 
 ## 프로젝트 주요 기능 소개
 
